@@ -1,17 +1,12 @@
-# [Your Name]
+
 
 ## Web Developer | Full Stack Developer | AI Specialist
-
-[Your Contact Information: Email, Phone Number]  
-[LinkedIn Profile URL]  
-[GitHub Profile URL]  
-[Personal Website URL]
 
 ---
 
 ## About Me
 
-![Profile Image](240_F_656900366_0xZsWe528dP8w8X2aWkopVPBa6NQrEVg.jpg.jpg)  <!-- Replace with your profile image URL -->
+![Profile Image](240_F_656900366_0xZsWe528dP8w8X2aWkopVPBa6NQrEVg.jpg)  <!-- Replace with your profile image URL -->
 I am a dedicated and innovative developer with over 10 years of experience in creating cutting-edge applications and websites. My expertise lies in **frontend development**, **AI solutions**, and **mobile app development**. I thrive on tackling complex challenges and am committed to delivering high-quality solutions that exceed client expectations. My passion for continuous learning and adaptation to emerging technologies drives my professional growth.
 
 ---
